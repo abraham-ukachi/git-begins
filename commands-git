@@ -10,5 +10,10 @@ Voici les **commandes git** qui permettent de:
     2. git commit -m "Initial commit"
     3. git push -u origin main
 
+- Cree une branche: 
+> git branch "add-create-branch-command"
+
+- Switcher de banche:
+> git checkout "main"
 
     
