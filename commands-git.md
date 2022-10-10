@@ -19,14 +19,14 @@ git add README.md
 ```
 
 ### 2ème commande de push
-> git commit [**-m** <u>*__option__*</u>] <u>*__message__*</u>
+> git commit <**-m** <u>*__option__*</u>> <u>*__message__*</u>
 
 ```sh
 git commit -m "Initial commit"
 ```
 
 ### 3ème commande de push
-> git push [**-u** <u>*__option__*</u>] [<u>*__branch__*</u>]
+> git push <**-u** <u>*__option__*</u>> [<<u>*__branch__*</u>>]
 
 ```sh
 git push
@@ -37,5 +37,13 @@ ou
 git push -u origin main
 ```
 
+## La commande de pull
+> git pull <<u>*__option__*</u>> [<<u>*__url du repo__*</u>>]
+
+La commande que permet de **pull**:
+
+```sh
+git pull
+```
 
     
