@@ -1,4 +1,7 @@
 # `commands-git`
+> Author: [Abraham Ukachi](https://github.com/abraham-ukachi) \
+> School: [La Plateforme_](https://laplateforme.io) \
+> Project: [GIT Begins](https://github.com/abraham-ukachi/git-begins)
 
 Voici les **commandes git** qui permettent de:
  
@@ -63,4 +66,3 @@ Pour switcher d'une branche a une autre:
 ```sh
 git branch checkout main
 ```
-
