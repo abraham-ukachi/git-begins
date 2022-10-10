@@ -1,2 +1,4 @@
-- Fullname: James Ukachi
- - Motto: WTF
+- Fullname: Abraham Ukachi
+- email: abraham.ukachi@laplateforme.io
+- motto: Don't be seduced!
+-
