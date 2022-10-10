@@ -1,7 +1,7 @@
 # `commands-git`
 
 Voici les **commandes git** qui permettent de:
-
+ 
 ## Cloner un repo
 > git clone <u>*__url du repo__*</u>
 
