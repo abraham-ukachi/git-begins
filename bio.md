@@ -1,2 +1,0 @@
-- Fullname: James Ukachi
- - Motto: WTF
