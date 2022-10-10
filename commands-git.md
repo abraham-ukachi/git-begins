@@ -46,4 +46,25 @@ La commande que permet de **pull**:
 git pull
 ```
 
+<<<<<<< HEAD
     
+=======
+# Creation de branche
+
+La commande qui permet de creer une branche sur [github](https://github.com) est la suivante:
+
+> git branch *__nom de la branche__*
+
+```sh
+git branch add-create-branch-command
+```    
+
+Pour switcher d'une branche a une autre:
+
+> git branch checkout *__nom de la branche__*
+
+```sh
+git branch checkout main
+```
+
+>>>>>>> add-create-branch-command
