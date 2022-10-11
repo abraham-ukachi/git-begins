@@ -5,6 +5,7 @@
 
 Voici les **commandes git** qui permettent de:
  
+ 
 ## Cloner un repo
 > git clone <u>*__url du repo__*</u>
 
@@ -48,6 +49,7 @@ La commande que permet de **pull**:
 ```sh
 git pull
 ```
+
 
 ## Creation de branche
 
